@@ -38,7 +38,7 @@ module.exports = [{
   filename: 'Nina Simone  Feeling Good.mp3',
   title: 'Feeling Good',
   artist: 'Nina Simone',
-  genre: 'Nina Simone\'s Her Own Fucking Category'
+  genre: 'Nina Simone\'s Her Own Category'
 }, {
   filename: 'Sean Kingston - Beautiful Girls.mp3',
   title: 'Beautiful Girls',
